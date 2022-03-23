@@ -18,9 +18,9 @@ addStyle('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 // Inject body overlay and text
 /*
 <div class="realmadoverlay">
-    <div class="realmadglitch" data-text="realmadsci">realmadsci</div>
-    <div class="realmadglitch" data-text="was">was</div>
-    <div class="realmadglitch" data-text="here">here</div>
+    <div class="realmadglitch" data-text="realmadsci">This</div>
+    <div class="realmadglitch" data-text="was">needs to be</div>
+    <div class="realmadglitch" data-text="here">fixed</div>
   </div>
 <BODY>
 */
